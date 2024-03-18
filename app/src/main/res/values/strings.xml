@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">DinoPedia</string>
+    <string name="info_dino_icon">Ikon Dino</string>
+    <string name="info_dino_name">Nama Dino</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_characteristic">Karakteristik</string>
+    <string name="info_dino_habitat">Habitat</string>
+    <string name="info_dino_family">Keluarga</string>
+
+
+    <string-array name="dino_name">
+        <item>Tyrannosaurus Rex</item>
+        <item>Stegosaurus</item>
+        <item>Triceratops</item>
+        <item>Velociraptor</item>
+        <item>Brachiosaurus</item>
+        <item>Spinosaurus</item>
+        <item>Ankylosaurus</item>
+        <item>Pteranodon</item>
+        <item>Allosaurus</item>
+        <item>Archaeopteryx</item>
+        <item>Deinonychus</item>
+        <item>Parasaurolophus</item>
+        <item>Diplodocus</item>
+        <item>Dimetrodon</item>
+        <item>Styracosaurus</item>
+    </string-array>
+
+    <string-array name="dino_icon">
+        <item>@drawable/ic_tyrannosaurus_rex</item>
+        <item>@drawable/ic_stegosaurus</item>
+        <item>@drawable/ic_triceratops</item>
+        <item>@drawable/ic_velociraptor</item>
+        <item>@drawable/ic_brachiosaurus</item>
+        <item>@drawable/ic_spinosaurus</item>
+        <item>@drawable/ic_ankylosaurus</item>
+        <item>@drawable/ic_pteranodon</item>
+        <item>@drawable/ic_allosaurus</item>
+        <item>@drawable/ic_archaeopteryx</item>
+        <item>@drawable/ic_deinonychus</item>
+        <item>@drawable/ic_parasaurolophus</item>
+        <item>@drawable/ic_diplodocus</item>
+        <item>@drawable/ic_dimetrodon</item>
+        <item>@drawable/ic_styracosaurus</item>
+    </string-array>
+
+    <string-array name="dino_description">
+        <item>Tyrannosaurus Rex adalah salah satu dino karnivora terbesar yang pernah hidup di Bumi. Dikenal dengan gigi-gigi tajam dan tubuh besar, T-Rex merupakan predator utama di zamannya.</item>
+        <item>Stegosaurus adalah dino herbivora yang memiliki punggung yang dilengkapi dengan lempengan tulang besar dan ekor bersenjatakan paku, yang digunakan untuk pertahanan diri dan komunikasi.</item>
+        <item>Triceratops adalah dino herbivora berukuran besar dengan tiga tanduk besar di kepala dan kerangka yang dilindungi oleh pelindung tulang keras.</item>
+        <item>Velociraptor adalah dino karnivora berukuran kecil yang cepat dan lincah, sering berburu dalam kelompok dan menggunakan cakar tajam untuk menyerang mangsanya.</item>
+        <item>Brachiosaurus adalah salah satu dino herbivora terbesar yang pernah hidup, dengan leher panjang dan tubuh besar yang memungkinkannya mencapai daun-daun di pohon-pohon tinggi.</item>
+        <item>Spinosaurus adalah dino karnivora raksasa yang memiliki punggung yang dilapisi oleh jumbai tulang yang membentang seperti layar, mungkin digunakan untuk mengatur suhu tubuh dan komunikasi visual.</item>
+        <item>Ankylosaurus adalah dino herbivora yang memiliki tubuh yang dilindungi oleh tulang keras dan sebuah palu berat di ujung ekornya, yang digunakan untuk bertahan dari serangan predator.</item>
+        <item>Pteranodon adalah dino terbang yang memiliki sayap besar yang diperkuat oleh kerangka tulang, digunakan untuk terbang di udara dan mencari makanan di lautan prasejarah.</item>
+        <item>Allosaurus adalah dino karnivora berukuran sedang yang merupakan predator utama di ekosistem darat pada masa Jurassic.</item>
+        <item>Archaeopteryx adalah dino berbulu yang memiliki ciri-ciri khas burung dan reptil, sering dianggap sebagai bentuk transisi antara dino dan burung modern.</item>
+        <item>Deinonychus adalah dino karnivora berukuran sedang dengan cakar tajam yang digunakan untuk menyerang mangsanya dalam kelompok.</item>
+        <item>Parasaurolophus adalah dino herbivora yang memiliki crested yang besar di atas kepala dan dikenal karena suaranya yang khas.</item>
+        <item>Diplodocus adalah dino herbivora terbesar yang memiliki leher panjang dan ekor yang panjang, digunakan untuk mencari makanan di atas pohon-pohon tinggi.</item>
+        <item>Dimetrodon adalah reptil purba yang mirip dengan dino, namun sebenarnya termasuk dalam kelompok Synapsida.</item>
+        <item>Styracosaurus adalah dino herbivora yang memiliki tanduk besar di atas mata dan cakar tajam di kaki depannya.</item>
+    </string-array>
+
+    <string-array name="dino_characteristic">
+        <item>Tyrannosaurus Rex memiliki rahang yang kuat dengan gigi tajam dan cakar yang besar.</item>
+        <item>Stegosaurus memiliki lempengan tulang besar di punggungnya dan ekor bersenjatakan paku yang digunakan untuk pertahanan.</item>
+        <item>Triceratops memiliki tiga tanduk besar di kepala dan kerangka yang dilindungi oleh pelindung tulang keras.</item>
+        <item>Velociraptor memiliki tubuh kecil, kaki yang panjang, dan cakar tajam yang digunakan untuk menyerang mangsa.</item>
+        <item>Brachiosaurus memiliki leher panjang dan tubuh besar yang memungkinkannya mencapai daun-daun di pohon-pohon tinggi.</item>
+        <item>Spinosaurus memiliki punggung yang dilapisi oleh jumbai tulang yang membentang seperti layar.</item>
+        <item>Ankylosaurus memiliki tubuh yang dilindungi oleh tulang keras dan sebuah palu berat di ujung ekornya.</item>
+        <item>Pteranodon memiliki sayap besar yang diperkuat oleh kerangka tulang, digunakan untuk terbang di udara.</item>
+        <item>Allosaurus memiliki rahang yang kuat dengan gigi tajam dan tubuh yang lincah untuk mengejar mangsa.</item>
+        <item>Archaeopteryx memiliki ciri-ciri morfologi yang menyerupai burung modern, tetapi juga mempertahankan banyak ciri reptil.</item>
+        <item>Deinonychus memiliki cakar tajam yang digunakan untuk menyerang mangsanya dalam kelompok.</item>
+        <item>Parasaurolophus memiliki crested yang besar di atas kepala yang mungkin digunakan untuk berkomunikasi.</item>
+        <item>Diplodocus memiliki leher panjang yang memungkinkannya mencapai daun-daun di pohon-pohon tinggi.</item>
+        <item>Dimetrodon memiliki punggung yang dilapisi oleh jumbai tulang yang digunakan untuk regulasi suhu tubuh.</item>
+        <item>Styracosaurus memiliki tanduk besar di atas mata yang mungkin digunakan untuk pertahanan atau tampilan.</item>
+    </string-array>
+
+    <string-array name="dino_habitat">
+        <item>Tyrannosaurus Rex hidup di daerah daratan dengan iklim yang beragam, dari hutan hujan tropis hingga dataran tinggi.</item>
+        <item>Stegosaurus menghuni daerah pedalaman hutan dan dataran tinggi dengan vegetasi yang subur.</item>
+        <item>Triceratops sering ditemukan di padang rumput yang luas dan hutan-hutan dataran rendah.</item>
+        <item>Velociraptor mendiami hutan belantara dan daerah bersemak dengan sumber air yang cukup.</item>
+        <item>Brachiosaurus banyak ditemukan di daerah hutan tropis dengan pepohonan tinggi dan berlimpah.</item>
+        <item>Spinosaurus sering ditemukan di wilayah rawa-rawa dan sungai yang luas di dataran rendah.</item>
+        <item>Ankylosaurus biasanya hidup di hutan-hutan dataran rendah dengan sumber air yang dekat.</item>
+        <item>Pteranodon menghuni daerah pantai, rawa-rawa, dan daerah pesisir dengan akses ke laut.</item>
+        <item>Allosaurus biasanya ditemukan di daerah pedalaman hutan dan padang rumput yang luas.</item>
+        <item>Archaeopteryx hidup di hutan-hutan kuno yang lebat dan daerah berhutan dengan vegetasi yang tebal.</item>
+        <item>Deinonychus sering ditemukan di hutan dan daerah bersemak dengan sumber air yang cukup.</item>
+        <item>Parasaurolophus menghuni daerah padang rumput luas dan hutan-hutan dataran rendah.</item>
+        <item>Diplodocus biasanya ditemukan di daerah hutan dan padang rumput yang luas dengan vegetasi tinggi.</item>
+        <item>Dimetrodon hidup di daerah rawa-rawa dan sungai yang luas pada masa prasejarah.</item>
+        <item>Styracosaurus sering ditemukan di daerah berbukit dengan vegetasi yang subur.</item>
+    </string-array>
+
+    <string-array name="dino_family">
+        <item>Theropoda</item>
+        <item>Stegosauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Ornithomimidae</item>
+        <item>Sauropoda</item>
+        <item>Spinosauridae</item>
+        <item>Ankylosauridae</item>
+        <item>Pterosauria</item>
+    </string-array>
+
+    <string-array name="dino_family_icon">
+        <item>@drawable/ic_theropoda</item>
+        <item>@drawable/ic_stegosauridae</item>
+        <item>@drawable/ic_ceratopsidae</item>
+        <item>@drawable/ic_ornithomimidae</item>
+        <item>@drawable/ic_sauropoda</item>
+        <item>@drawable/ic_spinosauridae</item>
+        <item>@drawable/ic_ankylosauridae</item>
+        <item>@drawable/ic_pterosauria</item>
+    </string-array>
+</resources>
